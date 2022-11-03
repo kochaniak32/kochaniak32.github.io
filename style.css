@@ -1,0 +1,22 @@
+p{
+    margin-top: 0%;
+    color: purple;
+    font-size: 12pt;
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: 0%;
+  width: 50%;
+  width: 400px;
+  border: 10px;
+}
+
+body
+
+{
+     background-color: cyan;
+     background-image: url("obrazek.jpg");
+}
+
