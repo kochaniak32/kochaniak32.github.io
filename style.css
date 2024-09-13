@@ -1,13 +1,13 @@
 p{
     margin-top: 0%;
-    color: purple;
-    font-size: 12pt;
+    color: rgb(0, 0, 0);
+    font-size: 16pt;
 
 }
 img{
   display: block;
   margin-left: auto;
-  margin-right: 0%;
+  margin-right: auto;
   width: 50%;
   width: 400px;
   border: 10px;
@@ -16,7 +16,17 @@ img{
 body
 
 {
-     background-color: cyan;
+    text-align: center;
+     background-color: lightgrey;
      background-image: url("obrazek.jpg");
+}
+header
+{
+font-size: 32pt;
+color: rgb(231, 22, 15);
+
+
+
+
 }
 
